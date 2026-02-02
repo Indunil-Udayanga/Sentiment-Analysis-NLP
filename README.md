@@ -1,4 +1,4 @@
-# Sentiment Analysis Web Application
+#Sentiment Analysis ML Project
 
 A professional end-to-end **Sentiment Analysis**  project that seamlessly integrates **Machine Learning (ML)** , **Natural Language Processing (NLP)** , and a **Flask-based web application** with a clean and responsive **HTML/CSS frontend. The system allows users to input text and automatically predicts the sentiment as Positive, Negative, or Neutral using a trained ML model.
 
